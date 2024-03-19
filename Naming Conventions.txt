@@ -1,0 +1,28 @@
+pmXXXX_YY_ZZ_NNNN_GGGG
+
+XXXX = National/Index ID of the pokemon in question.
+	   #MUST be padded with 0's so the end number is 4 digits
+	   
+YY = Form number for any NON-REGIONAL form this is 00 if something has no forms,
+	 but if it does have forms the first form number starts with 11 and counts up from there
+	 #MUST be padded with 0's so the end number is 2 digits
+
+ZZ = As of PLA/ScVi regional form numbers have been seperated from regular forms in terms of naming conventions.
+	 Regional form numbers also come with specific numbers for specific regions:
+	  - 11 = Alola
+	  - 41 = Hisui
+	  - ?? = TODO: Add more regional form numbers here
+	 #MUST be padded with 0's so the end number is 2 digits
+
+NNNN = Form Name, not normally used in the official game's naming conventions, but it sure makes it easier for me
+	   #Can be any reasonable length
+	   
+GGGG = Gender, most pokemon don't look any different but some mons look different based on their gender.
+	   This can be a very minor texture edit or color change, but sometimes it can also have a unique model.
+	   Gender Naming conventions are as follows:
+	    - UNISEX = Same model and textures for both genders
+	    - MALE = Male specific model and/or textures
+	    - FEMALE = Female specific model and/or textures
+
+Example:
+pm0649_12_00_DOUSEDRIVE_UNISEX

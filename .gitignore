@@ -1,2 +1,5 @@
 #3D Stuff
 *.blend1
+
+#MacOS Stuff
+*.DS_Store

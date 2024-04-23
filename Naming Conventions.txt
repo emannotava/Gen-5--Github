@@ -10,6 +10,7 @@ YY = Form number for any NON-REGIONAL form this is 00 if something has no forms,
 ZZ = As of PLA/ScVi regional form numbers have been seperated from regular forms in terms of naming conventions.
 	 Regional form numbers also come with specific numbers for specific regions:
 	  - 11 = Alola
+	  - 31 = Galar
 	  - 41 = Hisui
 	  - ?? = TODO: Add more regional form numbers here
 	 #MUST be padded with 0's so the end number is 2 digits

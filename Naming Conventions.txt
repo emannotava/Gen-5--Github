@@ -24,6 +24,9 @@ GGGG = Gender, most pokemon don't look any different but some mons look differen
 	    - UNISEX = Same model and textures for both genders
 	    - MALE = Male specific model and/or textures
 	    - FEMALE = Female specific model and/or textures
+		
+Note that in the latest gen an additonal part was added to the naming conventions,
+that's practically always at 0 except for cases like Minior, Alcremie and that one Gen 9 bird with a weird ass haircut
 
 Example:
 pm0649_12_00_DOUSEDRIVE_UNISEX

@@ -3,3 +3,8 @@
 
 #MacOS Stuff
 *.DS_Store
+
+#Specific Paths
+/assets/\#WIP/pm0864_00_31_UNISEX/SwSh Model
+/assets/NotDone/G4/pm0483_12_00_ORIGIN_UNISEX/ScVi Textures
+/assets/NotDone/G4/pm0484_12_00_ORIGIN_UNISEX/ScVi Textures
